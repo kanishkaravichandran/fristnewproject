@@ -1,7 +1,7 @@
 public class my1{
     public static void main(String args[]){
         String name;
-        name="roja";
+        name="raja";
         System.out.println(name);
 
     }
